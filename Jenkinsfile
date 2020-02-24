@@ -1,8 +1,7 @@
 pipeline
 {
  agent any
-{
-Stages
+ Stages
 {  
   stages('print hi')
  {
