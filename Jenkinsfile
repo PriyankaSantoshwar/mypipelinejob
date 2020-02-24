@@ -2,8 +2,8 @@ pipeline
 {
  agent any
  Stages
-{  
-  stages('print hi')
+ {  
+   stage('print hi')
  {
    steps {
 
